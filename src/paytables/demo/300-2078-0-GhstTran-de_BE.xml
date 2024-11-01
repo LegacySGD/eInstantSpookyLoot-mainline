@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="de_BE">
+<phrase key="softwareId" value="Software-ID"/>
+<phrase key="transactionId" value="Transaktions-ID"/>
+<phrase key="totalWins" value="Gewinne gesamt"/>
+<phrase key="totalWager" value="Einsatz gesamt"/>
+<phrase key="reveal" value="Aufdecken"/>
+<phrase key="prizeAmount" value="Preisbetrag"/>
+<phrase key="miss" value="Verpasst"/>
+<phrase key="bonus" value="Bonus"/>
+<phrase key="instantWin" value="Sofortgewinn"/>
+</translation>

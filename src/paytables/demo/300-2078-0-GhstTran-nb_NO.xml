@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="nb_NO">
+<phrase key="softwareId" value="Programvare-ID"/>
+<phrase key="transactionId" value="Transaksjons-ID"/>
+<phrase key="totalWins" value="PREMIE"/>
+<phrase key="totalWager" value="Samlet innsats"/>
+<phrase key="reveal" value="Avdekke"/>
+<phrase key="prizeAmount" value="PREMIE"/>
+<phrase key="miss" value="Bom"/>
+<phrase key="bonus" value="Bonus"/>
+<phrase key="instantWin" value="PREMIE"/>
+</translation>

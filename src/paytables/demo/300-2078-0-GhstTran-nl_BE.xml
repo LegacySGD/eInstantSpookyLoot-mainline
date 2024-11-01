@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="nl_BE">
+<phrase key="softwareId" value="Software-ID"/>
+<phrase key="transactionId" value="Transactie-ID"/>
+<phrase key="totalWins" value="Totale winst"/>
+<phrase key="totalWager" value="Totale inzet"/>
+<phrase key="reveal" value="Onthullen"/>
+<phrase key="prizeAmount" value="Prijsbedrag"/>
+<phrase key="miss" value="Mis"/>
+<phrase key="bonus" value="Bonus"/>
+<phrase key="instantWin" value="Directe prijs"/>
+</translation>
